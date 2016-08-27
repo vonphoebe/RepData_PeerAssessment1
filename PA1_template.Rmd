@@ -106,3 +106,8 @@ library(lattice)
 xyplot(steps ~ interval | weekend, aggTotals4, type = "l", layout = c(1, 2), xlab = "Five Minute Interval", ylab = "Number of steps", main="The average number of steps taken across weekday")
 ``` 
 
+
+
+
+
+
